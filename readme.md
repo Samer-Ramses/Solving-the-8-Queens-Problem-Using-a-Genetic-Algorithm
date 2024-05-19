@@ -6,13 +6,15 @@ This repository contains an AI course project focused on solving the classic 8 Q
 
 ## Installation
 
-To get started, clone the repository:
-```bash
-git clone https://github.com/Samer-Ramses/Solving-the-8-Queens-Problem-Using-a-Genetic-Algorithm.git
-cd Solving-the-8-Queens-Problem-Using-a-Genetic-Algorithm
+1. To get started, clone the repository:
+   ```bash
+   git clone https://github.com/Samer-Ramses/Solving-the-8-Queens-Problem-Using-a-Genetic-Algorithm.git
+   cd Solving-the-8-Queens-Problem-Using-a-Genetic-Algorithm
+   ```
 
 ## Usage
 
-Open the code.ipynb notebook in Jupyter to run the genetic algorithm. The notebook includes detailed explanations and visualizations to help understand the process.
-```bash
-jupyter notebook code.ipynb
+1. Open the code.ipynb notebook in Jupyter to run the genetic algorithm. The notebook includes detailed explanations and visualizations to help understand the process.
+   ```bash
+   jupyter notebook code.ipynb
+   ```
